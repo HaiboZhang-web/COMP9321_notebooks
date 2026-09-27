@@ -1,0 +1,9 @@
+first_name,last_name,gender,age,preTestScore,postTestScore,timestamp
+Jason,Miller,M,42.0,4.0,25,2026-09-07 09:30:00
+Molly, Jacobson,M,52.0,24.0,104,2025-09-11 02:30:00
+Tina,,F,36.0,31.0,57,2026-09-17 02:30:00
+Jake,Milner,M,24.0,,62,2026-09-07 09:10:00
+Amy,Cooze,F,73.0,,70,
+ Emily,,F,24.0,,60,
+Amy,,M,33.0,,59,
+,,,,,,
