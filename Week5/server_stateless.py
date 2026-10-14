@@ -35,7 +35,6 @@ def login():
 def profile():
     token = request.headers.get("Authorization")
     username = token[:-6]
-    print(username)
     # Check that the username exists
     if username not in users:
         return jsonify({"error": "Invalid token"}), 401
